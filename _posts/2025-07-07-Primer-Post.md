@@ -4,3 +4,9 @@ published: true
 ---
 
 
+```python
+
+import os
+os.system
+
+```
